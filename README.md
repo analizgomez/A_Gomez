@@ -2,7 +2,7 @@ Poem Number 1
 # Amazing
 # Nice
 # Active
-# loving
+# Loving
 # Inspiring 
 # Zestful
 
