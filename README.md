@@ -7,7 +7,7 @@ Poem Number 1
 # Zestful
 
 Poem Number 2
-# Roses are red, Violets are ble
+ Roses are red, Violets are blue
 get out my face beofre I punch you too!
 
 Poem Number 2
